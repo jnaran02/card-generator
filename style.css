@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.row1 {
+    width: 20em;
+    background-color: white;
+    height: 27em;
+    border-radius: 3%;
+}
+
+#cartas {
+    font-size: 6em;
+    margin-top: -10%;
+    margin-left: -2%;
+
+}
+
+#cartas2 {
+    font-size: 6em;
+    transform: rotate(-180deg);
+    margin-left: 80%;
+}
+
+#numero {
+    font-size: 10em;
+    margin: -10%;
+    margin-bottom: -1%;
+    margin-left: 3%;
+}
